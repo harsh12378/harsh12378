@@ -7,7 +7,7 @@
 
 - 💻 Passionate about **Full Stack Development**
 - ⚙️ Strong in **Java & Problem Solving**
-- 🌐 Building scalable apps using **React, Node.js, MongoDB**
+- 🌐 Building scalable apps using **MERN Stack**
 - 📚 Currently learning **System Design & Backend Architecture**
 
 ---
@@ -19,18 +19,18 @@
 - JavaScript
 - SQL
 
-### 🌐 Frontend
-- React.js
-- HTML5
-- CSS3
-- Tailwind CSS
-
+  
 ### 🔧 Backend
 - Node.js
 - Express.js
 - MongoDB
 - Prisma
 - REST APIs
+
+  
+### 🌐 Frontend
+- React.js
+- Next.js
 
 ### 🛠️ Tools
 - Git & GitHub
