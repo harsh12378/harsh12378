@@ -1,16 +1,90 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Harsh Pandey</h1>
+<h3 align="center">Full Stack Developer | DSA Enthusiast | System Design Learner</h3>
 
-<!--
-**harsh12378/harsh12378** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Passionate about **Full Stack Development**
+- ⚙️ Strong in **Java & Problem Solving**
+- 🌐 Building scalable apps using **React, Node.js, MongoDB**
+- 📚 Currently learning **System Design & Backend Architecture**
+- 🎯 Goal: Crack top product-based companies
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+- Java
+- JavaScript
+- SQL
+
+### 🌐 Frontend
+- React.js
+- HTML5
+- CSS3
+- Tailwind CSS
+
+### 🔧 Backend
+- Node.js
+- Express.js
+- MongoDB
+- Prisma
+- REST APIs
+
+### 🛠️ Tools
+- Git & GitHub
+- Docker(Learning)
+- Redis (Learning)
+
+---
+
+## 🚀 Projects
+
+### NodeTalk 💬 A Real-time Chat Application
+- Socket.IO based messaging  
+- Online users tracking  
+- Redis caching  
+- Authentication & protected routes  
+
+---
+
+### 🎬 Movie Explorer (React)
+- TMDB API integration  
+- Trending & Top Rated movies  
+- Watchlist using localStorage  
+
+---
+
+## 📊 DSA & Coding
+
+- 🔥 400+ Problems Solved
+- 📈 Strong grip on:
+  - Trees (DFS, BFS)
+  - Recursion & Backtracking
+  - Sliding Window
+  - Binary Search
+  - Graphs
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh12378&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh12378&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/harsh-kumar-pandey-0a64082b8
+- Leetcode: https://leetcode.com/u/Harsh_12378/
+- 📧 Email: harshpandey12378@gmail.com
+
+---
+
+⭐ From [Harsh Pandey](https://github.com/harsh12378)
+
