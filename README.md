@@ -9,7 +9,6 @@
 - ⚙️ Strong in **Java & Problem Solving**
 - 🌐 Building scalable apps using **React, Node.js, MongoDB**
 - 📚 Currently learning **System Design & Backend Architecture**
-- 🎯 Goal: Crack top product-based companies
 
 ---
 
