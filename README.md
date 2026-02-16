@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsh Pandey</h1>
+<h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">Full Stack Developer | DSA Enthusiast | System Design Learner</h3>
 
 ---
@@ -72,9 +72,10 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh12378&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh12378&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh12378&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh12378&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
+
 
 ---
 
